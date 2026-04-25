@@ -1,0 +1,7 @@
+name: 'jft-github-actions'
+description: 'TODO: describe this action'
+runs:
+  using: 'composite'
+  steps:
+    - run: echo "TODO: implement jft-github-actions"
+      shell: bash
