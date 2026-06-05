@@ -103,8 +103,8 @@ To update files across all action repositories:
 
 ## 📚 Documentation
 
-- [Action Repo Standards](https://github.com/jdfalk/ghcommon/blob/main/ACTION_REPO_STANDARDS.md)
-- [Copilot Instructions](https://github.com/jdfalk/ghcommon/blob/main/.github/copilot-instructions.md)
+- [Action Repo Standards](https://github.com/falkcorp/github-common/blob/main/ACTION_REPO_STANDARDS.md)
+- [Copilot Instructions](https://github.com/falkcorp/github-common/blob/main/.github/copilot-instructions.md)
 
 ## 🔧 Standard Files
 
